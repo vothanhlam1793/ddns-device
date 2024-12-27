@@ -11,8 +11,8 @@
 
 #include <EasyDDNS.h>
 
-const char *ssid = "CRETA SOLU";
-const char *password = "yoursolution";
+const char *ssid = "TP-LINK_CCEA";
+const char *password = "12345678";
 
 WiFiServer server(80);
 
